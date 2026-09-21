@@ -1,0 +1,6 @@
+{
+  "buildCommand": "python -m pip install -r requirements-build.txt && jupyter lite build --contents content --output-dir dist",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true
+}

@@ -1,0 +1,13 @@
+{
+  "jupyter-config-data": {
+    "appName": "Neural Network Lab",
+    "disabledExtensions": [
+      "@jupyterlite/application-extension:logo"
+    ],
+    "settingsOverrides": {
+      "@jupyterlab/apputils-extension:themes": {
+        "theme": "JupyterLab Light"
+      }
+    }
+  }
+}
